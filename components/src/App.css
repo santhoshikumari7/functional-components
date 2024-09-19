@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+img{
+  width: 350px;
+}
+
+.HerosDiv{
+  background-color: chocolate;
+  border: 5px solid darkmagenta;
+  border-radius: 20px;
+  margin: 10px;
+  display: inline-block;
+  width: 400px;
+}
+
+
+
+
+
